@@ -1,4 +1,5 @@
 # tugas-3
+<<<<<<< HEAD
 
 This template should help get you started developing with Vue 3 in Vite.
 
@@ -27,3 +28,6 @@ npm run dev
 ```sh
 npm run build
 ```
+=======
+tugas 3 pemrograman web ut
+>>>>>>> 4535663d97330210b35da8c1b05051eacefe729b
